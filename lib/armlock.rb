@@ -1,7 +1,7 @@
 require "armlock/version"
 require "armlock/armlock"
 
-module Armlock
+class Armlock
   class Error < StandardError; end
   # Your code goes here...
 end
